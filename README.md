@@ -1,7 +1,7 @@
 
 # Power BI Dashboard Project
+Discover Madhav Store's E-commerce sales analysis through our interactive Power BI dashboard. Cleaned and modeled from Orders.csv and Details.csv, this project offers key insights on top-performing states, popular product categories, profitable months, and valuable customers. Use these findings to enhance sales strategies, target discounts effectively, and optimize promotions for increased profitability. Explore the potential of data-driven decision-making in the e-commerce sector.
 
-I have created an interactive Power BI dashboard for Madhav Store (E-commerce), and analysed their online sales across India.
 
 
 ![App Screenshot](https://user-images.githubusercontent.com/97950473/239038511-8f9d2583-3022-41dd-bd26-3c2d8197b1c3.png)
