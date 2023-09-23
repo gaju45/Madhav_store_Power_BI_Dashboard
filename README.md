@@ -28,7 +28,6 @@ We want to analyze Madhav Stores sales data across india and create interactive 
 
 - Orders.csv
 - Details.csv
-- Background_img.jpg
 
 
 
